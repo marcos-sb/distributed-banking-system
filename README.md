@@ -54,5 +54,5 @@ To start execution, type (one line per terminal):
 
 FURTHER INFO
 ------------
-* Full design diagrams in `magicdraw` folder
-* Check out Manual.pdf, browse through the code or contact me.
+* Full design diagrams in [magicdraw](https://github.com/marcos-sb/distributed-banking-system/tree/master/magicdraw) folder
+* Check out [Manual.pdf](https://docs.google.com/file/d/0B2lmVzXW-C5UY2EzaDRKUUh3Ujg/edit?usp=sharing), browse through the code or contact me.
