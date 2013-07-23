@@ -51,4 +51,5 @@ To start execution, type (one line per terminal):
 
 FURTHER INFO
 ------------
-Check out Manual.pdf, browse through the code or contact me.
+* Full design diagrams in `magicdraw` folder
+* Check out Manual.pdf, browse through the code or contact me.
