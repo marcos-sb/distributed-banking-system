@@ -24,12 +24,15 @@ __QUICK GUIDE__
 * Choose your desired folder location and clone the repo issuing  
 `git clone https://github.com/marcos-sb/distributed-banking-system.git`  
 The folder `distributed-banking-system` should have been created  
+
 * Change directory to the one just created and maven install:  
 `cd distributed-banking-system && mvn install`  
+
 * mysql user `alba` has to be created:  
 `mysql -uroot -p`  
 `mysqlprompt$> create user 'alba'@'localhost' identified by 'alba'`  
 `mysqlprompt$> grant all on *.* to alba@localhost identified by 'alba'`  
+
 * mysql DBs, tables and tuples creation is scripted:  
 `mysql -ualba -palba < bank/src/main/resources/bank.sql`  
 `mysql -ualba -palba < consortium/src/main/resources/consortium.sql`
