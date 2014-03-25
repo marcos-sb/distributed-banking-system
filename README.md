@@ -45,7 +45,7 @@ A parameters file could be found at `{cashmachine, bank, consortium}/src/main/re
 
 RUN
 ---
-It is adised to run each agent in a different terminal so following the message flow would be easier.  
+It is advised to run each agent in a different terminal so following the message flow would be easier.  
 To start execution, type (one line per terminal):  
 `java -jar cashmachine/target/cashmachine-0.0.1.jar`  
 `java -jar consortium/target/consortium-0.0.1.jar`  
